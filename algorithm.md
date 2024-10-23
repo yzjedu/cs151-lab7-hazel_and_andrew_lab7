@@ -45,6 +45,9 @@
     6. display total cost to user 
     7. display ending message
 
-16. run main      
+16. run main
+
+room_num.replace(room_num[5], count)
+
 
    
