@@ -8,14 +8,18 @@
 6. Return: cost
 7. Algorithm: 
    1. Prompt user to enter the width of the room
-   2. Prompt user to enter the length of the room 
-   3. check if floor_type = 'hardwood'
+   2. While width is not digit and width is not positive: 
+      1. prompt user to enter width
+   3. Prompt user to enter the length of the room 
+   4. While length is not digit and length is not positive: 
+      1. prompt user to enter length
+   5. check if floor_type = 'hardwood'
       1. cost = hardwood_cost * width * length
-   4. otherwise, if floor_type = 'carpet'
+   6. otherwise, if floor_type = 'carpet'
       1. cost = carpet_cost * width * length
-   5. otherwise:
+   7. otherwise:
       1. cost = tile_cost * width * length
-    6. return cost
+   8. return cost
 
 8. Name: floor_type_input
 9. Parameter: none
