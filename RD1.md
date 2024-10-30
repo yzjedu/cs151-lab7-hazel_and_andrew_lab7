@@ -40,7 +40,7 @@ We struggled a bit coming up with a way to both keep track of the room number an
 **Did you overcome them, and how?**
 
 Yes. We came up with this line of code.
-room_num.replace(room_num[5], count)
+room_num = f'room {count + 1}' if count < 5 else 'room 5'
 This allows us to replace the displayed number to the user, while keeping the variable name the same. This allows us to use a while loop to repeat the action while also keeping the measurements clear to user. 
 
 **Any key takeaways?**
