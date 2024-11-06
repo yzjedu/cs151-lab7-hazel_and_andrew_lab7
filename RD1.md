@@ -1,56 +1,55 @@
-ENCRYPTED:
-# Mzagzxodji Yjxphzio
+# Reflection Document
 
-* Ymdqz Apgg Ivhz  : Hazel Osborne
-* Kvmoizm Apgg Ivhz: Andrew, Zain
-* Nopyzio DY: 1930197
-
-
-**What were you supposed to learn/accomplish?**
-
-Designing and programming functions, pair programming, good HCI
-
-**What steps were followed and what techniques did you use to solve the problem?**
-
-First we read the readme file. After that, we discussed how we wanted to tackle the problem and wrote the algorithm. After that was the testcases and flowchart. Lastly, writing and testing the code.
-
-**What were the Key concepts explored?**
-
-Loops, Defining Functions, Error Checking
-
-**Did your results match what you expected to get?**
-
-Yes. The code matches the testcase outcomes.
-
-**Did you try using various test cases, or extreme test cases?**
-
-Yes. There is built in error checking. 
-
-**What challenges did you encounter?**
-
-We struggled a bit coming up with a way to both keep track of the room number and make the code efficient by using a while loop.
-
-**How did you follow the first 3 rules of programming?**
-
-1. Think before Programming: We read the read me file, completed our algorithm, and completed our test cases before starting to program.
-2. Program is the embodiment of the algorithm: Our code follows our algorithm
-3. Improve through practice: We improved our pair programming / coding skills by completing this lab.
+* Drive Full Name  : Mfejq Txgtwsj
+* Partner Full Name: Fsiwjb, Efns
+* Student ID: 1930197
 
 
-**Did you overcome them, and how?**
+**Bmfy bjwj dtz xzuutxji yt qjfws/fhhtruqnxm?**
 
-Yes. We came up with this line of code.
-room_num = f'room {count + 1}' if count < 5 else 'room 5'
-This allows us to replace the displayed number to the user, while keeping the variable name the same. This allows us to use a while loop to repeat the action while also keeping the measurements clear to user. 
+Ijxnlsnsl fsi uwtlwfrrnsl kzshyntsx, ufnw uwtlwfrrnsl, ltti MHN
 
-**Any key takeaways?**
+**Bmfy xyjux bjwj ktqqtbji fsi bmfy yjhmsnvzjx ini dtz zxj yt xtqaj ymj uwtgqjr?**
 
-It is very important to plan before you code.
+Knwxy bj wjfi ymj wjfirj knqj. Fkyjw ymfy, bj inxhzxxji mtb bj bfsyji yt yfhpqj ymj uwtgqjr fsi bwtyj ymj fqltwnymr. Fkyjw ymfy bfx ymj yjxyhfxjx fsi kqtbhmfwy. Qfxyqd, bwnynsl fsi yjxynsl ymj htij.
 
-**Do you think you learned what you were supposed to learn for this lab?**
+**Bmfy bjwj ymj Pjd htshjuyx jcuqtwji?**
 
-Yes I do. I feel a lot better about defining functions
+Qttux, Ijknsnsl Kzshyntsx, Jwwtw Hmjhpnsl
 
-**What was it like working with your partner?**
+**Ini dtzw wjxzqyx rfyhm bmfy dtz jcujhyji yt ljy?**
 
-Good! They're both very nice and easy to work with. 
+Djx. Ymj htij rfyhmjx ymj yjxyhfxj tzyhtrjx.
+
+**Ini dtz ywd zxnsl afwntzx yjxy hfxjx, tw jcywjrj yjxy hfxjx?**
+
+Djx. Ymjwj nx gznqy ns jwwtw hmjhpnsl. 
+
+**Bmfy hmfqqjsljx ini dtz jshtzsyjw?**
+
+Bj xywzllqji f gny htrnsl zu bnym f bfd yt gtym pjju ywfhp tk ymj wttr szrgjw fsi rfpj ymj htij jkknhnjsy gd zxnsl f bmnqj qttu.
+
+**Mtb ini dtz ktqqtb ymj knwxy 3 wzqjx tk uwtlwfrrnsl?**
+
+1. Ymnsp gjktwj Uwtlwfrrnsl: Bj wjfi ymj wjfi rj knqj, htruqjyji tzw fqltwnymr, fsi htruqjyji tzw yjxy hfxjx gjktwj xyfwynsl yt uwtlwfr.
+2. Uwtlwfr nx ymj jrgtinrjsy tk ymj fqltwnymr: Tzw htij ktqqtbx tzw fqltwnymr
+3. Nruwtaj ymwtzlm uwfhynhj: Bj nruwtaji tzw ufnw uwtlwfrrnsl / htinsl xpnqqx gd htruqjynsl ymnx qfg.
+
+
+**Ini dtz tajwhtrj ymjr, fsi mtb?**
+
+Djx. Bj hfrj zu bnym ymnx qnsj tk htij.
+wttr_szr = k'wttr {htzsy + 1}' nk htzsy < 5 jqxj 'wttr 5'
+Ymnx fqqtbx zx yt wjuqfhj ymj inxuqfdji szrgjw yt ymj zxjw, bmnqj pjjunsl ymj afwnfgqj sfrj ymj xfrj. Ymnx fqqtbx zx yt zxj f bmnqj qttu yt wjujfy ymj fhynts bmnqj fqxt pjjunsl ymj rjfxzwjrjsyx hqjfw yt zxjw. 
+
+**Fsd pjd yfpjfbfdx?**
+
+Ny nx ajwd nrutwyfsy yt uqfs gjktwj dtz htij.
+
+**It dtz ymnsp dtz qjfwsji bmfy dtz bjwj xzuutxji yt qjfws ktw ymnx qfg?**
+
+Djx N it. N kjjq f qty gjyyjw fgtzy ijknsnsl kzshyntsx
+
+**Bmfy bfx ny qnpj btwpnsl bnym dtzw ufwysjw?**
+
+Ltti! Ymjd'wj gtym ajwd snhj fsi jfxd yt btwp bnym. 
